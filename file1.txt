@@ -1,5 +1,0 @@
-Added 1st line in local master
-Added 2nd line in the file on the GIT HUB
-
-
-Added 5th line in the file
